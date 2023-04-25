@@ -1,6 +1,6 @@
 ``` SCRIPT CLONING FB 2023 FREE AND OPEN SOURCE```
 
-``` CARA PEMASANGAN```
+``` #CARA PEMASANGAN : ```
 
 $``` pkg update && pkg upgrade```
 
