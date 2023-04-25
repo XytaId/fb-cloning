@@ -12,4 +12,4 @@ $``` git clone https://github.com/XytaId/fb-cloning```
 
 $``` cd fb-cloning```
 
-$``` python clone.py```
+$``` python Clay.py```
