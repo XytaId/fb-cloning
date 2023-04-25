@@ -10,6 +10,6 @@ $``` pkg install rich```
 
 $``` git clone https://github.com/XytaId/fb-cloning```
 
-$``` cd clone```
+$``` cd fb-cloning```
 
 $``` python clone.py```
